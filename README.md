@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Frank Gomez
+# Francis Gomez
 
 **Platform & DevOps Engineer in the making — London, UK**
 
