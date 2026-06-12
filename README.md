@@ -10,7 +10,7 @@ I found my way into platform engineering through a genuine love of Linux, automa
 ## What I'm building
 
 ### [ci-pipeline-demo](https://github.com/gomezf2/ci-pipeline-demo)
-A multi-stage CI/CD pipeline built with GitHub Actions and Docker. Four discrete jobs: lint, test, security scan, build and push — ordered by cost so the cheapest checks run first and failures are immediately attributable. Trivy hard-fails on CRITICAL and HIGH vulnerabilities before anything reaches the registry.
+A multi-stage CI/CD pipeline built with GitHub Actions and Docker. Four discrete jobs: lint, test, security scan, build and push ordered by cost so the cheapest checks run first and failures are immediately attributable. Trivy hard-fails on CRITICAL and HIGH vulnerabilities before anything reaches the registry.
 
 The commit history reflects the real development process, including the debugging and iterations, because that's the part I actually enjoy.
 
