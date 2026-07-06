@@ -26,7 +26,7 @@ Linux · Docker · GitHub Actions · GHCR · Trivy · GCP · Python · Git
 
 ## Currently learning
 
-- AWS Cloud Practitioner (in progress)
+- AWS Cloud Practitioner (Completed)
 - Terraform
 - Azure (AZ-900 on the roadmap)
 
